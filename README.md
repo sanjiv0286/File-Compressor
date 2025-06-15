@@ -2,7 +2,7 @@
 
 - Uses Huffman Coding for Text Compression
 - Made with JAVASCRIPT , HTML and CSS
-- Website Link : [File-Compressor](https://file-compressor-dipesh-kumar-guptas-projects.vercel.app/)
+- Website Link : [File-Compressor](https://gaurishiiitnr.github.io/CompressX/)
 
 ## About
 
